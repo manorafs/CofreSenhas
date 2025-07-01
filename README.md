@@ -29,7 +29,12 @@ Projeto pessoal para gerenciar senhas de forma simples, com interface gráfica u
 ---
 
 ## 🧩 Estrutura do Projeto (planejada)
-<pre> ``` gerenciador_senhas/ ├── main.py # Interface gráfica ├── banco.py # Conexão e controle do banco ├── seguranca.py # Funções de criptografia ├── utils.py # Funções auxiliares └── README.md # Documentação do projeto ``` </pre>
+<pre> ``` gerenciador_senhas/
+  ├── main.py # Interface gráfica
+  ├── banco.py # Conexão e controle do banco
+  ├── seguranca.py # Funções de criptografia
+  ├── utils.py # Funções auxiliares
+  └── README.md # Documentação do projeto ``` </pre>
 
 ---
 
